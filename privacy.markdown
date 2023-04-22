@@ -6,7 +6,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-The current version of this document can be found at [https://open-portfolio.github.io/privacy/](https://open-portfolio.github.io/privacy/).
+The current version of this document can be found at [https://open-portfolio.github.io/privacy](https://open-portfolio.github.io/privacy).
 
 At OpenAlloc LLC, we respect your privacy. We believe that the less we know about you and your personal financial data, the better; that is why we aim to limit the information we collect to the minimum necessary. 
 

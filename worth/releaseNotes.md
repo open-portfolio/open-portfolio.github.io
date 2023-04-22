@@ -11,6 +11,10 @@ description: |
 
 What's new with _FlowWorth_?
 
+## Version 1.10
+
+*Released April 2023*
+
 ## Version 1.9
 
 *Released September 2022*
@@ -67,7 +71,7 @@ What's new with _FlowWorth_?
 * New strategies chart and table, to conveniently track strategy delta/performance over time.
 * New chart Legend, with control via toolbar, menu, and shortcut key (⌘G).
 * Link with popup to conveniently review 'rejected row(s)' from import, available in 'Info Message Banner' box.
-* Documentation now web-based, hosted at [https://openalloc.github.io/flow/worth](https://openalloc.github.io/flow/worth/contents)
+* Documentation now web-based, hosted at [https://open-portfolio.github.io/flow/worth](https://open-portfolio.github.io/flow/worth/contents)
 
 ## Version 1.2
 

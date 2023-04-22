@@ -38,7 +38,7 @@ Available as a FREE download in the App Store:
 
 Re-useable Swift libraries for multiple platforms.
 
-* [_OpenAlloc Libraries_](https://openalloc.github.io/) - _OpenAlloc Libraries_ product website
+* [_OpenAlloc Libraries_](https://open-portfolio.github.io/) - _OpenAlloc Libraries_ product website
 * [_OpenAlloc Libraries_ Project](https://github.com/openalloc/) - Github site for the development project, including full source code
 
 ### Open Trackers
@@ -51,6 +51,8 @@ Fitness, nutrition, and productivity apps for iPhone, iPad, and Apple Watch.
 ### Open Portfolio
 
 Investing apps for macOS.
+
+This app is a member of the _Open Portfolio Project_.
 
 * [_Open Portfolio_](https://open-portfolio.github.io/) - _Open Portfolio_ product website
 * [_Open Portfolio_ Project](https://github.com/open-portfolio/) - Github site for the development project, including full source code

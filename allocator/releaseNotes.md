@@ -55,12 +55,19 @@ What's new with _FlowAllocator_?
 * Fix for Sidebar when toggling tradeability of accounts in data model
 * Partial fix for table cell height (due to a framework behavior change in Monterey)
 
+## Version 1.8
+
+*Released April 2023*
+
+* 
+
+
 ## Version 1.7
 
 *Released January 2022*
 
 * Link with popup to conveniently review 'rejected row(s)' from import, available in 'Info Message Banner' box.
-* Documentation now web-based, hosted at [https://openalloc.github.io/flow/allocator](https://openalloc.github.io/flow/allocator/contents/index.html)
+* Documentation now web-based
 
 ## Version 1.6
 

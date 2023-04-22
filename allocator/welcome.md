@@ -70,4 +70,4 @@ imported into any spreadsheet program.
 
 Your data is not transmitted or stored online.
 
-See the full privacy policy for details, available at [https://openalloc.github.io/flow/privacy/](https://openalloc.github.io/flow/privacy/).
+See the full privacy policy for details, available at [https://open-portfolio.github.io/privacy](https://open-portfolio.github.io/privacy).
