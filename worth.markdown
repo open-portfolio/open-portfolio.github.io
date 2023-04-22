@@ -73,16 +73,16 @@ Where direct import of brokerage statements isn't available, you can import data
 ## Screen Images
 
 _Returns Chart (and sidebar):_
-![Returns1](/images/worth0.png#center)
+![Returns1](/assets/images/worth0.png#center)
 
 _Returns chart (and Delta inspector):_
-![Returns2](/images/worth1.png#center)
+![Returns2](/assets/images/worth1.png#center)
 
 _Returns chart (and Modified Dietz inspector):_
-![Returns3](/images/worth2.png#center)
+![Returns3](/assets/images/worth2.png#center)
 
 _Forecast:_
-![Forecast](/images/worth3.png#center)
+![Forecast](/assets/images/worth3.png#center)
 
 ## Requirements
 
