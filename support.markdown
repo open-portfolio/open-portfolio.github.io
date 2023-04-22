@@ -4,18 +4,15 @@ title: Support
 permalink: /support/
 ---
 
-## Support for _Gym Routine Tracker_, _Daily Calorie Tracker_, and _Task Routine Tracker_
+# Support
 
-If you have any questions, contact via email at gym\_routine\_tracker /at/ outlook.com
+As stated in the terms, OpenAlloc LLC is not a financial adviser and does not provide investment or tax advice. Requests to do so will be declined.
 
-Issues can be reported (publicly) at: 
+Common questions are answered in the documentation, available in-app and on the website.
 
-* DCT Watch app: [Github project site](https://github.com/open-trackers/Daily-Calorie-Tracker-Watch-App)
-* DCT+ iPhone/iPad app: [Github project site](https://github.com/open-trackers/Daily-Calorie-Tracker-Plus-App)
+Issues regarding importers are tracked at the [OpenAlloc/FINporter](https://github.com/open-portfolio/FINporter) open source project on GitHub.
 
-* GRT Watch app: [Github project site](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App)
-* GRT+ iPhone/iPad app: [Github project site](https://github.com/open-trackers/Gym-Routine-Tracker-Plus-App)
+You can contact support by email: [openalloc\_support@fastmail.com](mailto:openalloc_support@fastmail.com).
 
-* TRT Watch app: [Github project site](https://github.com/open-trackers/Task-Routine-Tracker-Watch-App)
-* TRT+ iPhone/iPad app: [Github project site](https://github.com/open-trackers/Task-Routine-Tracker-Plus-App)
+You can follow [@FlowAllocator](https://twitter.com/flowallocator) on Twitter (DMs open for support questions).
 

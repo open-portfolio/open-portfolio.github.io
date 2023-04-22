@@ -2,46 +2,31 @@
 layout: home
 ---
 
-_A minimalist family of trackers, for health, fitness and productivity, for the Apple Watch, iPhone, and iPad_
+_Tools useful to the do-it-yourself investor, for macOS_
 
-## Gym Routine Tracker
+## FlowAllocator
 
-<div style="width: 250px; height: 298px;"> <img src="/assets/images/grt-on-wrist.jpeg" style="width: inherit" /> </div> <p/>
+<div style="width: 324px; height: 200px;"> <img src="/assets/images/allocator2.png" style="width: inherit" /> </div> <p/>
 
-_A minimalist gym workout tracker, for the Apple Watch, iPhone, and iPad_
+_A tool to rebalance your portfolio, for macOS_
 
-- [Gym Routine Tracker](/grt/) - product page for GRT and GRT+
+* [FlowAllocator](/allocator/) - product page for _FlowAllocator_
 
-Available as FREE downloads in the App Store:
+Available as a FREE download in the App Store:
 
-- [GRT for Apple Watch](https://apps.apple.com/us/app/gym-routine-tracker/id6444747204)
-- [GRT+ for iPhone/iPad](https://apps.apple.com/us/app/gym-routine-tracker/id1662243916)
+* [FlowAllocator for macOS](https://apps.apple.com/app/flowallocator-open/id1640747997)
 
-## Daily Calorie Tracker
+## FlowWorth
 
-<div style="width: 250px; height: 298px;"> <img src="/assets/images/dct-on-wrist.jpeg" style="width: inherit" /> </div> <p/>
+<div style="width: 324px; height: 200px;"> <img src="/assets/images/worth0.png" style="width: inherit" /> </div> <p/>
 
-_A minimalist calorie tracker, for the Apple Watch, iPhone, and iPad_
+_A tool to valuate and track the performance of your portfolio, for macOS_
 
-- [Daily Calorie Tracker](/dct/) - product page for DCT and DCT+
+* [Flow Worth](/worth/) - product page for _FlowWorth_
 
-Available as FREE downloads in the App Store:
+Available as a FREE download in the App Store:
 
-- [DCT for Apple Watch](https://apps.apple.com/us/app/daily-calorie-tracker/id6445856852)
-- [DCT+ for iPhone/iPad](https://apps.apple.com/us/app/daily-calorie-tracker/id6445856794)
-
-## Task Routine Tracker
-
-<div style="width: 250px; height: 298px;"> <img src="/assets/images/trt-on-wrist.jpeg" style="width: inherit" /> </div> <p/>
-
-_A minimalist and focused task runner, for the Apple Watch, iPhone, and iPad_
-
-- [Task Routine Tracker](/trt/) - product page for TRT and TRT+
-
-Available as FREE downloads in the App Store:
-
-- [TRT for Apple Watch](https://apps.apple.com/us/app/task-routine-tracker/id6447024549) (is available!)
-- [TRT+ for iPhone/iPad](https://apps.apple.com/us/app/task-routine-tracker/id)  (NOT available in App Store just yet!)
+* [FlowWorth for macOS](https://apps.apple.com/app/flowworth-open/id1640748160)
 
 ## See Also
 
@@ -49,19 +34,32 @@ Available as FREE downloads in the App Store:
 * [Privacy](/privacy/) - Privacy Policy
 * [Support](/support/) - Support Details
 
-### macOS apps by the same author:
+### OpenAlloc Libraries
 
-* [FlowAllocator](https://openalloc.github.io/FlowAllocator/index.html) - portfolio rebalancing tool for macOS
-* [FlowWorth](https://openalloc.github.io/FlowWorth/index.html) - portfolio valuation and tracking tool for macOS
+Re-useable Swift libraries for multiple platforms.
 
-### A few of the Vim plugins by the same author:
+* [_OpenAlloc Libraries_](https://openalloc.github.io/) - _OpenAlloc Libraries_ product website
+* [_OpenAlloc Libraries_ Project](https://github.com/openalloc/) - Github site for the development project, including full source code
 
-* [vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
-* [vim-wordy](https://github.com/preservim/vim-wordy) - Uncover usage problems in your writing
-* [vim-wheel](https://github.com/preservim/vim-wheel) - Screen-anchored cursor movement for Vim
+### Open Trackers
+
+Fitness, nutrition, and productivity apps for iPhone, iPad, and Apple Watch.
+
+* [_Open Trackers_](https://open-trackers.github.io/) - _Open Trackers_ product website
+* [_Open Trackers_ Project](https://github.com/open-trackers/) - Github site for the development project, including full source code
+
+### Open Portfolio
+
+Investing apps for macOS.
+
+* [_Open Portfolio_](https://open-portfolio.github.io/) - _Open Portfolio_ product website
+* [_Open Portfolio_ Project](https://github.com/open-portfolio/) - Github site for the development project, including full source code
 
 ## License
 
 Copyright 2023 OpenAlloc LLC
 
 All application code is licensed under the [Mozilla Public License 2](https://www.mozilla.org/en-US/MPL/2.0/), except where noted in individual modules.
+
+Re-useable library code may be under the [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/) or the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0), except where noted in individual modules.
+
