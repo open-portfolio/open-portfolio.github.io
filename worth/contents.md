@@ -11,51 +11,51 @@ description: |
 
 _A power tool for the do-it-yourself investor_
 
-* [Release Notes](../releaseNotes/index.html) **NEW**
+* [Release Notes](releaseNotes) **NEW**
 
-* [Welcome to FlowWorth!](../welcome/index.html)
-* [Getting Started](../gettingStarted/index.html)
+* [Welcome to FlowWorth!](welcome)
+* [Getting Started](gettingStarted)
 
 ## Snapshot Builder
 
-* [Snapshot Builder](../snapshotBuilder/index.html)  
+* [Snapshot Builder](snapshotBuilder)  
 
 ## Period Summary
 
-* [Period Summary](../periodSummary/index.html)   
+* [Period Summary](periodSummary)   
 
 ## Returns
 
-* [Accounts](../returnsAccounts/index.html) 
-* [Assets](../returnsAssets/index.html)   
-* [Chart](../returnsChart/index.html)  
-* [Footer](../returnsFooter/index.html)   
-* [Forecast](../returnsForecast/index.html) 
+* [Accounts](returnsAccounts) 
+* [Assets](returnsAssets)   
+* [Chart](returnsChart)  
+* [Footer](returnsFooter)   
+* [Forecast](returnsForecast) 
 
 ## Inspectors
 
-* [Accounts](../inspectAccounts/index.html) 
-* [Assets](../inspectAssets/index.html)   
-* [Delta](../inspectDelta/index.html)    
-* [Dietz](../inspectDietz/index.html)    
-* [Forecast](../inspectForecast/index.html) 
+* [Accounts](inspectAccounts) 
+* [Assets](inspectAssets)   
+* [Delta](inspectDelta)    
+* [Dietz](inspectDietz)    
+* [Forecast](inspectForecast) 
 
 ## App Preferences
 
-* [Store](../settingsStore/index.html)
-* [Settings](../settingsGeneral/index.html)
+* [Store](settingsStore)
+* [Settings](settingsGeneral)
 
 ## Data Model
 
-* [Account Table ](../../shared/account/index.html)
-* [Asset Table](../../shared/asset/index.html)
-* [Cashflow Table](../../shared/valuation_cash_flow/index.html)
-* [Holding Table](../../shared/account_holding/index.html)
-* [Position Table](../../shared/valuation_position/index.html)
-* [Security Table](../../shared/security/index.html)
-* [Snapshot Table](../../shared/valuation_snapshot/index.html)
-* [Strategy Table](../../shared/strategy/index.html)
-* [Transaction Table](../../shared/transaction/index.html)
+* [Account Table ](../shared/account)
+* [Asset Table](../shared/asset)
+* [Cashflow Table](../shared/valuation_cash_flow)
+* [Holding Table](../shared/account_holding)
+* [Position Table](../shared/valuation_position)
+* [Security Table](../shared/security)
+* [Snapshot Table](../shared/valuation_snapshot)
+* [Strategy Table](../shared/strategy)
+* [Transaction Table](../shared/transaction)
 
 
 

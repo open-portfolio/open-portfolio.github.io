@@ -11,49 +11,49 @@ description: |
 
 _A power tool for the do-it-yourself investor_
 
-* [Release Notes](../releaseNotes/index.html) **NEW**
+* [Release Notes](releaseNotes) **NEW**
 
-* [Welcome to FlowAllocator!](../welcome/index.html)
-* [Getting Started](../gettingStarted/index.html)
+* [Welcome to FlowAllocator!](welcome)
+* [Getting Started](gettingStarted)
 
 ## Allocation
 
-* [Strategy Allocation](../strategyAllocation/index.html)
+* [Strategy Allocation](strategyAllocation)
 
 Premium allocation features (available with ‘Investor’ Subscription):
 
-* [Consolidate](../consolidate/index.html)
-* [Optimize](../optimize/index.html)
+* [Consolidate](consolidate)
+* [Optimize](optimize)
 
 ## Holdings
 
-* [Holdings participation](../holdingsParticipation/index.html)
-* [Holdings summary](../holdingsSummary/index.html)
-* [Orphaned holdings](../orphanedHoldings/index.html)
+* [Holdings participation](holdingsParticipation)
+* [Holdings summary](holdingsSummary)
+* [Orphaned holdings](orphanedHoldings)
 
 ## Rebalance
 
-* [Rebalance](../rebalance/index.html)
-* [Rebalance purchases](../rebalancePurchases/index.html)
-* [Rebalance sales](../rebalanceSales/index.html)
-* [Rebalance summary](../rebalanceSummary/index.html)
+* [Rebalance](rebalance)
+* [Rebalance purchases](rebalancePurchases)
+* [Rebalance sales](rebalanceSales)
+* [Rebalance summary](rebalanceSummary)
 
 ## App Preferences
 
-* [Store](../settingsStore/index.html)
-* [Settings](../settingsGeneral/index.html)
+* [Store](settingsStore)
+* [Settings](settingsGeneral)
 
 ## Data Model
 
-* [Account Table ](../../shared/account/index.html)
-* [Allocation Table](../../shared/strategy_allocation/index.html)
-* [Asset Table](../../shared/asset/index.html)
-* [Cap Table](../../shared/account_cap/index.html)
-* [Holding Table](../../shared/account_holding/index.html)
-* [Security Table](../../shared/security/index.html)
-* [Strategy Table](../../shared/strategy/index.html)
-* [Tracker Table](../../shared/index_tracker/index.html)
-* [Transaction Table](../../shared/transaction/index.html)
+* [Account Table ](../shared/account)
+* [Allocation Table](../shared/strategy_allocation)
+* [Asset Table](../shared/asset)
+* [Cap Table](../shared/account_cap)
+* [Holding Table](../shared/account_holding)
+* [Security Table](../shared/security)
+* [Strategy Table](../shared/strategy)
+* [Tracker Table](../shared/index_tracker)
+* [Transaction Table](../shared/transaction)
 
 
 
