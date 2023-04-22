@@ -25,7 +25,7 @@ _FlowAllocator_ offers features accessible to those new to investing, as well as
 
 Your privacy is paramount. Financial data in _FlowAllocator_ stays local to your computer. None of it is uploaded to the cloud. No connection to remote providers is involved. 
 
-[FlowAllocator Documentation](/allocator/contents/index.html)
+[FlowAllocator Documentation](/allocator/contents)
 
 ## Demo of Features for Basic Version
 
