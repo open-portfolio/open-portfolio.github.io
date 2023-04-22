@@ -15,10 +15,10 @@ The blue line is the market value of each snapshot in the period. The green line
 
 ## See also
 
-For details on the forecast, see [Returns Inspector Forecast](../inspectForecast/index.html)
+For details on the forecast, see [Returns Inspector Forecast](inspectForecast)
 
-To modify the selected period, see [Returns Footer](../returnsFooter/index.html).
+To modify the selected period, see [Returns Footer](returnsFooter).
 
-To filter the participating accounts, see [Returns Inspector Accounts Filter](../inspectAccounts/index.html).
+To filter the participating accounts, see [Returns Inspector Accounts Filter](inspectAccounts).
 
-To filter the participating assets, see [Returns Inspector Assets Filter](../inspectAssets/index.html).
+To filter the participating assets, see [Returns Inspector Assets Filter](inspectAssets).

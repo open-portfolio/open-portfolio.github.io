@@ -33,11 +33,11 @@ The formula for the calculated regression line is shown, where 'd' is the number
 
 ## See also
 
-For a chart depicting the line and a portion of the forecast, see [Returns Forecast Chart](../returnsForecast/index.html)
+For a chart depicting the line and a portion of the forecast, see [Returns Forecast Chart](returnsForecast)
 
-To modify the selected period, see [Returns Footer](../returnsFooter/index.html).
+To modify the selected period, see [Returns Footer](returnsFooter).
 
-To filter the participating accounts, see [Returns Inspector Accounts Filter](../inspectAccounts/index.html).
+To filter the participating accounts, see [Returns Inspector Accounts Filter](inspectAccounts).
 
-To filter the participating assets, see [Returns Inspector Assets Filter](../inspectAssets/index.html).
+To filter the participating assets, see [Returns Inspector Assets Filter](inspectAssets).
 

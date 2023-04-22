@@ -67,7 +67,7 @@ What's new with _FlowWorth_?
 * New strategies chart and table, to conveniently track strategy delta/performance over time.
 * New chart Legend, with control via toolbar, menu, and shortcut key (⌘G).
 * Link with popup to conveniently review 'rejected row(s)' from import, available in 'Info Message Banner' box.
-* Documentation now web-based, hosted at [https://openalloc.github.io/flow/worth](https://openalloc.github.io/flow/worth/contents/index.html)
+* Documentation now web-based, hosted at [https://openalloc.github.io/flow/worth](https://openalloc.github.io/flow/worth/contents)
 
 ## Version 1.2
 

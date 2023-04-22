@@ -44,8 +44,8 @@ The available choices are:
 
 ## See also
 
-To modify the selected period, see [Returns Footer](../returnsFooter/index.html).
+To modify the selected period, see [Returns Footer](returnsFooter).
 
-To filter the participating accounts, see [Returns Inspector Accounts Filter](../inspectAccounts/index.html).
+To filter the participating accounts, see [Returns Inspector Accounts Filter](inspectAccounts).
 
-To filter the participating assets, see [Returns Inspector Assets Filter](../inspectAssets/index.html).
+To filter the participating assets, see [Returns Inspector Assets Filter](inspectAssets).

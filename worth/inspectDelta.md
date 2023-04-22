@@ -25,11 +25,11 @@ Note that the %Δ column (showing performance to date) will show "n/a" if the pe
 
 ## See also
 
-For performance that's _independent_ of cash flows, see [Returns Modified Dietz (R)](../inspectDietz/index.html)
+For performance that's _independent_ of cash flows, see [Returns Modified Dietz (R)](inspectDietz)
 
-To modify the selected period, see [Returns Footer](../returnsFooter/index.html).
+To modify the selected period, see [Returns Footer](returnsFooter).
 
-To filter the participating accounts, see [Returns Inspector Accounts Filter](../inspectAccounts/index.html).
+To filter the participating accounts, see [Returns Inspector Accounts Filter](inspectAccounts).
 
-To filter the participating assets, see [Returns Inspector Assets Filter](../inspectAssets/index.html).
+To filter the participating assets, see [Returns Inspector Assets Filter](inspectAssets).
 

@@ -42,11 +42,11 @@ For each entity, you can construct your own comma-separated or tab-delimited fil
 
 Import your delimited files via the 'Import' menu or via drag-and-drop.
 
-* [Account Table ](../../shared/account/index.html)
-* [Holding Table](../../shared/account_holding/index.html)
-* [Security Table](../../shared/security/index.html)
-* [Transaction Table](../../shared/transaction/index.html)
-* [Strategy Table](../../shared/strategy/index.html)
+* [Account Table ](shared/account)
+* [Holding Table](shared/account_holding)
+* [Security Table](shared/security)
+* [Transaction Table](shared/transaction)
+* [Strategy Table](shared/strategy)
 
 For more details on these formats, see the _OpenAlloc_ project.
 
@@ -54,9 +54,9 @@ For more details on these formats, see the _OpenAlloc_ project.
 
 These are typically generated from your imports and used for long-term storage, along with accounts, assets, and securities.
 
-* [Cashflow Table](../../shared/valuation_cash_flow/index.html)
-* [Position Table](../../shared/valuation_position/index.html)
-* [Snapshot Table](../../shared/valuation_snapshot/index.html)
+* [Cashflow Table](shared/valuation_cash_flow)
+* [Position Table](shared/valuation_position)
+* [Snapshot Table](shared/valuation_snapshot)
 
 For more details on these formats, see the _OpenAlloc_ project.
 
@@ -106,7 +106,7 @@ This provides details on the Snapshot's period, before it is committed to _FlowW
 
 This will be most useful when you've created at least two snapshots.
 
-For more detail see [Period Summary View](../periodSummary/index.html).
+For more detail see [Period Summary View](periodSummary).
 
 ### Positions View
 

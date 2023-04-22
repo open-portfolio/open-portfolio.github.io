@@ -31,10 +31,10 @@ The return for individual Snapshots is shown, as well as the period to date.
 
 ## See also
 
-For performance that's _net_ of cash flows, see [Returns Delta (Δ)](../inspectDelta/index.html)
+For performance that's _net_ of cash flows, see [Returns Delta (Δ)](inspectDelta)
 
-To modify the selected period, see [Returns Footer](../returnsFooter/index.html).
+To modify the selected period, see [Returns Footer](returnsFooter).
 
-To filter the participating accounts, see [Returns Inspector Accounts Filter](../inspectAccounts/index.html).
+To filter the participating accounts, see [Returns Inspector Accounts Filter](inspectAccounts).
 
-To filter the participating assets, see [Returns Inspector Assets Filter](../inspectAssets/index.html).
+To filter the participating assets, see [Returns Inspector Assets Filter](inspectAssets).

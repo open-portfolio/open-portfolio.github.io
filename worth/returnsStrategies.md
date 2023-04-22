@@ -11,4 +11,4 @@ description: |
 
 This table summarizes the strategies for the selected period.
 
-For more detail see [Period Summary View](../periodSummary/index.html).
+For more detail see [Period Summary View](periodSummary).
