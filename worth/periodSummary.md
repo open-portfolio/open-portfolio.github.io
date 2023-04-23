@@ -1,6 +1,6 @@
 ---
 title: Period Summary View
-keywords: [FlowWorth, period, summary, assets, accounts]
+keywords: [Flow Worth, period, summary, assets, accounts]
 robots: [index, anchors]
 anchor: periodSummary
 description: |

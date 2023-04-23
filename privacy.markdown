@@ -12,13 +12,13 @@ At OpenAlloc LLC, we respect your privacy. We believe that the less we know abou
 
 This policy applies to all information collected or submitted to OpenAlloc LLC’s website and our apps for macOS and any other devices and platforms.
 
-For purposes of this Privacy Policy, the terms “OpenAlloc LLC”, “we,” “us” and “our” refer to the company OpenAlloc LLC; the terms “application“, “app”, “service”, and “product” refer to the FlowAllocator and FlowWorth software, website, and any related services; and “you” refers to you, as a user of the application as applicable.
+For purposes of this Privacy Policy, the terms “OpenAlloc LLC”, “we,” “us” and “our” refer to the company OpenAlloc LLC; the terms “application“, “app”, “service”, and “product” refer to the Flow Allocator and Flow Worth software, website, and any related services; and “you” refers to you, as a user of the application as applicable.
 
 We reserve the right to change this policy at any time (and without prior notification), which we will do through online posting. 
 
 ## Information we collect
 
-Your financial data is stored exclusively in zip-compressed “.allocatz” (for FlowAllocator) and “.worthz” (for FlowWorth) files you save locally to your device’s file system. The application does not upload this data. Nor does the application offer online storage, backup, or syncing with third-party services, including Apple’s iCloud service.
+Your financial data is stored exclusively in zip-compressed “.allocatz” (for Flow Allocator) and “.worthz” (for Flow Worth) files you save locally to your device’s file system. The application does not upload this data. Nor does the application offer online storage, backup, or syncing with third-party services, including Apple’s iCloud service.
 
 We may collect a limited amount of information that is necessary to improve the app, and to provide support. To help identify and solve specific problems with our products and services, we occasionally solicit diagnostic reports and other troubleshooting, bug, and crash reports from customers. 
 
@@ -69,6 +69,6 @@ If you have questions regarding this privacy policy, you may contact us via the 
 We will post changes to our Privacy Policy on this page. Summary of changes so far:
 
 * June 28, 2021: First published.
-* October 27, 2021: Added support for FlowWorth application.
+* October 27, 2021: Added support for Flow Worth application.
 * January 5, 2022: Simplification to remove "To improve the software, we may collect aggregate, anonymous statistics, such as the percentage of users who use particular features." as there are no plans to collect usage information.
 * August 18, 2022: Updated for OpenAlloc LLC and lack of subscriptions.

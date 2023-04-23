@@ -1,6 +1,6 @@
 ---
 title: Returns Accounts Summary
-keywords: [FlowWorth, returns, accounts, period, summary]
+keywords: [Flow Worth, returns, accounts, period, summary]
 robots: [index, anchors]
 anchor: returnsAccounts
 description: |

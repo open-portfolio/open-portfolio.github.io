@@ -12,7 +12,7 @@ description: |
 Rebalancing is the path from one’s current holdings to the Strategy’s
 allocation objective.
 
-In _FlowAllocator_ the rebalancing views show the trades required in each
+In _Flow Allocator_ the rebalancing views show the trades required in each
 account to achieve a rebalance. 
 
 Sales are listed first, in descending order by size. Then purchases, also

@@ -1,6 +1,6 @@
 ---
 title: Returns Strategies Summary
-keywords: [FlowWorth, returns, strategies, period, summary]
+keywords: [Flow Worth, returns, strategies, period, summary]
 robots: [index, anchors]
 anchor: returnsStrategies
 description: |

@@ -1,6 +1,6 @@
 ---
 title: Returns Inspector Delta
-keywords: [FlowWorth, returns, inspector, delta]
+keywords: [Flow Worth, returns, inspector, delta]
 robots: [index, anchors]
 anchor: inspectDelta
 description: |

@@ -1,6 +1,6 @@
 ---
 title: Returns Assets Inspector
-keywords: [FlowWorth, returns, inspector, assets, filter]
+keywords: [Flow Worth, returns, inspector, assets, filter]
 robots: [index, anchors]
 anchor: inspectAssets
 description: |

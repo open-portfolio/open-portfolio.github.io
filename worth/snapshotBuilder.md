@@ -1,6 +1,6 @@
 ---
 title: Snapshot Builder
-keywords: [FlowWorth, snapshot, valuation, builder]
+keywords: [Flow Worth, snapshot, valuation, builder]
 robots: [index, anchors]
 anchor: snapshotBuilder
 description: |
@@ -9,7 +9,7 @@ description: |
 
 #  Snapshot Builder
 
-The Snapshot Builder is the gateway for data incoming to _FlowWorth_.
+The Snapshot Builder is the gateway for data incoming to _Flow Worth_.
 
 The Builder is a tool for creating periodic point-in-time snapshots of valuations of your holdings. For example, you might want to track your net worth on a monthly basis, so you'll create a new snapshot every month.
 
@@ -23,7 +23,7 @@ The 'Snapshot Builder' section of the sidebar will be highlighted when you've im
 
 ### Brokerage Exports
 
-Where supported (with the _FINporter_ open import framework) you can import your brokerage exports directly into _FlowWorth_.
+Where supported (with the _FINporter_ open import framework) you can import your brokerage exports directly into _Flow Worth_.
 
 Even if you import directly from brokerage statements, you'll probably want to construct your own MAccount and MSecurity delimited files, as described in next section.
 
@@ -34,7 +34,7 @@ Even if you import directly from brokerage statements, you'll probably want to c
 | MAccount | Specify a readable account title and the strategy mapping. |
 | MSecurity | Specify an asset mapping for each ticker symbol. |
 
-These can be reused as needed, such as with the _FlowAllocator_ app for rebalancing.
+These can be reused as needed, such as with the _Flow Allocator_ app for rebalancing.
 
 ## Imported Data Model Entities
 
@@ -102,7 +102,7 @@ Undo (via Cmd-Z should be supported.)
 
 Access the Summary View via the menu or by clicking the "[B] SNAPSHOT BUILDER" in the side bar. Or by the Control-Command-B shortcut.
 
-This provides details on the Snapshot's period, before it is committed to _FlowWorth_'s data model. 
+This provides details on the Snapshot's period, before it is committed to _Flow Worth_'s data model. 
 
 This will be most useful when you've created at least two snapshots.
 

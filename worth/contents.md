@@ -7,13 +7,13 @@ description: |
   A power tool for the do-it-yourself investor
 ---
 
-# FlowWorth
+# Flow Worth
 
 _A power tool for the do-it-yourself investor_
 
 * [Release Notes](releaseNotes) **NEW**
 
-* [Welcome to FlowWorth!](welcome)
+* [Welcome to Flow Worth!](welcome)
 * [Getting Started](gettingStarted)
 
 ## Snapshot Builder

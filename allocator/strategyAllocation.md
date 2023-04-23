@@ -9,7 +9,7 @@ description: |
 
 # Strategy Allocation
 
-The strategy allocation view is at the heart of _FlowAllocator_.
+The strategy allocation view is at the heart of _Flow Allocator_.
 
 ## Strategy Grid
 

@@ -1,6 +1,6 @@
 ---
 title: Returns Forecast Chart
-keywords: [FlowWorth, returns, chart, delta, forecast, linear, regression]
+keywords: [Flow Worth, returns, chart, delta, forecast, linear, regression]
 robots: [index, anchors]
 anchor: returnsForecast
 description: |

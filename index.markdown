@@ -4,29 +4,29 @@ layout: home
 
 _Tools useful to the do-it-yourself investor, for macOS_
 
-## FlowAllocator
+## Flow Allocator
 
 <div style="width: 324px; height: 200px;"> <img src="/assets/images/allocator2.png" style="width: inherit" /> </div> <p/>
 
 _A tool to rebalance your portfolio, for macOS_
 
-* [FlowAllocator](/allocator/) - product page for _FlowAllocator_
+* [Flow Allocator](/allocator/) - product page for _Flow Allocator_
 
 Available as a FREE download in the App Store:
 
-* [FlowAllocator for macOS](https://apps.apple.com/app/flowallocator-open/id1640747997)
+* [Flow Allocator for macOS](https://apps.apple.com/app/flowallocator-open/id1640747997)
 
-## FlowWorth
+## Flow Worth
 
 <div style="width: 324px; height: 200px;"> <img src="/assets/images/worth0.png" style="width: inherit" /> </div> <p/>
 
 _A tool to valuate and track the performance of your portfolio, for macOS_
 
-* [Flow Worth](/worth/) - product page for _FlowWorth_
+* [Flow Worth](/worth/) - product page for _Flow Worth_
 
 Available as a FREE download in the App Store:
 
-* [FlowWorth for macOS](https://apps.apple.com/app/flowworth-open/id1640748160)
+* [Flow Worth for macOS](https://apps.apple.com/app/flowworth-open/id1640748160)
 
 ## See Also
 

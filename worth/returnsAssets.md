@@ -1,6 +1,6 @@
 ---
 title: Returns Assets Summary
-keywords: [FlowWorth, returns, assets, period, summary]
+keywords: [Flow Worth, returns, assets, period, summary]
 robots: [index, anchors]
 anchor: returnsAssets
 description: |

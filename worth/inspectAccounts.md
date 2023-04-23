@@ -1,6 +1,6 @@
 ---
 title: Returns Accounts Inspector
-keywords: [FlowWorth, returns, inspector, accounts, filter]
+keywords: [Flow Worth, returns, inspector, accounts, filter]
 robots: [index, anchors]
 anchor: inspectAccounts
 description: |

@@ -9,23 +9,23 @@ permalink: /worth/
 </div>
 <p/>
 
-_FlowWorth_ is a tool to valuate and track the performance of your portfolio.
+_Flow Worth_ is a tool to valuate and track the performance of your portfolio.
 
 ## Download
 
 Available as a FREE download in the App Store:
 
-- [FlowWorth for macOS](https://apps.apple.com/app/flowworth-open/id1640748160)
+- [Flow Worth for macOS](https://apps.apple.com/app/flowworth-open/id1640748160)
 
 ## Main Features
 
-_FlowWorth_ is a tool to valuate and track the performance of your portfolio.
+_Flow Worth_ is a tool to valuate and track the performance of your portfolio.
 
-_FlowWorth_ offers features accessible to those new to investing, as well as sophisticated capabilities for those who are managing multiple investment strategies across multiple accounts.
+_Flow Worth_ offers features accessible to those new to investing, as well as sophisticated capabilities for those who are managing multiple investment strategies across multiple accounts.
 
-Your privacy is paramount. Financial data in _FlowWorth_ stays local to your computer. None of it is uploaded to the cloud. No connection to remote providers is involved. 
+Your privacy is paramount. Financial data in _Flow Worth_ stays local to your computer. None of it is uploaded to the cloud. No connection to remote providers is involved. 
 
-[FlowWorth Documentation](/worth/contents)
+[Flow Worth Documentation](/worth/contents)
 
 ## Demo of "Delta" Features
 
@@ -33,7 +33,7 @@ Your privacy is paramount. Financial data in _FlowWorth_ stays local to your com
 
 <br/>
 
-Most of this video covers the basic features of _FlowWorth_.
+Most of this video covers the basic features of _Flow Worth_.
 
 Near the end is a discussion of the advanced "Forecast" features, formerly available with an in-app purchase, but now free to all users.
 
@@ -52,7 +52,7 @@ These features cover the tracking of performance independent of cash flow using 
 
 ## Import Support
 
-Through the _FINporter_ project in _OpenAlloc_, _FlowWorth_ supports\* the direct import of export files from some brokerages (and services). These presently include:
+Through the _FINporter_ project in _OpenAlloc_, _Flow Worth_ supports\* the direct import of export files from some brokerages (and services). These presently include:
 
 <div class="special_table"></div>
 

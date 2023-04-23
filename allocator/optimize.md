@@ -9,7 +9,7 @@ description: |
 
 # Optimize Feature
 
-Optimization is at the heart of _FlowAllocator_’s advanced feature set.
+Optimization is at the heart of _Flow Allocator_’s advanced feature set.
 
 It can be used to survey the millions of possible allocations, to find
 those that best meet your investment objectives.
@@ -21,7 +21,7 @@ For example, to find an allocation that keeps realized gains to a minimum.
 The number of possible allocations to consider can be astronomical,
 counting into the millions and even billions.
 
-While _FlowAllocator_’s code is tuned for performance, there is
+While _Flow Allocator_’s code is tuned for performance, there is
 nevertheless heavy lifting to be done to survey the allocation space.
 
 The number of allocations is determined by the product of three
@@ -96,7 +96,7 @@ accounts to keep their permutations from ballooning.
 
 ### Reduce Trading Assets with Roll-up
 
-_FlowAllocator_’s _Roll-up Assets_ consolidation features can reduce the
+_Flow Allocator_’s _Roll-up Assets_ consolidation features can reduce the
 number of trading assets.
 
 First, this feature can simplify your allocation by combining smaller

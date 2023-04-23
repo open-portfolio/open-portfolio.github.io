@@ -9,7 +9,7 @@ description: |
 
 # Consolidate Setup
 
-Consolidation is an essential component of _FlowAllocator_’s advanced
+Consolidation is an essential component of _Flow Allocator_’s advanced
 feature set. 
 
 Many strategies can benefit from the efficiencies and simplifications

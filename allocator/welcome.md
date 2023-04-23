@@ -1,19 +1,19 @@
 ---
 title: Introduction
-keywords: [FlowAllocator, introduction, overview]
+keywords: [Flow Allocator, introduction, overview]
 robots: [index, anchors]
 anchor: flowAllocator
 description: |
-  Introduction to FlowAllocator
+  Introduction to Flow Allocator
 ---
 
-# Welcome to _FlowAllocator_!
+# Welcome to _Flow Allocator_!
 
-## What is _FlowAllocator_?
+## What is _Flow Allocator_?
 
-_FlowAllocator_ is a sophisticated tool for rebalancing one's portfolio.
+_Flow Allocator_ is a sophisticated tool for rebalancing one's portfolio.
 
-## Why _FlowAllocator_?
+## Why _Flow Allocator_?
 
 Many of us have multiple investment accounts. They might be taxable or
 tax-advantaged. They might serve different investment goals. 
@@ -33,7 +33,7 @@ roughly mirror each with a basic allocation. But to have them work in
 concert towards a common strategy allocation can be a complex undertaking,
 especially if that allocation changes over time.
 
-FlowAllocator steps in to provide a convenient solution to this dilemma,
+Flow Allocator steps in to provide a convenient solution to this dilemma,
 tolerating the demands of different accounts while directing them all
 towards the same goal.
 
@@ -50,7 +50,7 @@ goals.
 
 ## Open Source Components
 
-_FlowAllocator_ is built upon [OpenAlloc](https://github.com/openalloc)
+_Flow Allocator_ is built upon [OpenAlloc](https://github.com/openalloc)
 a group of open source projects with Apache and Mozilla Licensing.
 
 ### The Data Model

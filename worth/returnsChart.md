@@ -1,6 +1,6 @@
 ---
 title: Returns Chart
-keywords: [FlowWorth, returns, chart, delta]
+keywords: [Flow Worth, returns, chart, delta]
 robots: [index, anchors]
 anchor: returnsChart
 description: |

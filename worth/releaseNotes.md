@@ -1,15 +1,15 @@
 ---
 title: Release Notes
-keywords: [FlowWorth, application, updates, changes, fixes, bugfixes, changelog, release, release notes]
+keywords: [Flow Worth, application, updates, changes, fixes, bugfixes, changelog, release, release notes]
 robots: [index, anchors]
 anchor: changeLog
 description: |
-  Release Notes: What's New with FlowWorth
+  Release Notes: What's New with Flow Worth
 ---
 
 # Release Notes
 
-What's new with _FlowWorth_?
+What's new with _Flow Worth_?
 
 ## Version 1.10
 
@@ -25,7 +25,7 @@ What's new with _FlowWorth_?
 
 *Released August 2022*
 
-* _FlowWorth_ is now open source. All ‘Investor’ features that were formerly an in-app purchase are now available to all users.
+* _Flow Worth_ is now open source. All ‘Investor’ features that were formerly an in-app purchase are now available to all users.
 
 ## Version 1.7
 

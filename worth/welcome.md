@@ -1,26 +1,26 @@
 ---
 title: Introduction
-keywords: [FlowWorth, introduction, overview]
+keywords: [Flow Worth, introduction, overview]
 robots: [index, anchors]
 anchor: flowWorth
 description: |
-  Introduction to FlowWorth
+  Introduction to Flow Worth
 ---
 
-# Welcome to _FlowWorth_!
+# Welcome to _Flow Worth_!
 
-## What is _FlowWorth_?
+## What is _Flow Worth_?
 
-_FlowWorth_ is a sophisticated tool for tracking the value of one's portfolio.
+_Flow Worth_ is a sophisticated tool for tracking the value of one's portfolio.
 
-## Why _FlowWorth_?
+## Why _Flow Worth_?
 
 Many of us have multiple investment accounts. They might be taxable or
 tax-advantaged. They might serve different investment goals. 
 
 TODO 
 
-FlowWorth steps in to provide a convenient solution to this dilemma,
+Flow Worth steps in to provide a convenient solution to this dilemma,
 tolerating the demands of different accounts while directing them all
 towards the same goal.
 
@@ -37,7 +37,7 @@ goals.
 
 ## Open Source Components
 
-_FlowWorth_ is built upon [OpenAlloc](https://github.com/openalloc)
+_Flow Worth_ is built upon [OpenAlloc](https://github.com/openalloc)
 a group of open source projects with Apache and Mozilla Licensing.
 
 ### The Data Model

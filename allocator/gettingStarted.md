@@ -1,15 +1,15 @@
 ---
 title: Getting Started
-keywords: [FlowAllocator, introduction]
+keywords: [Flow Allocator, introduction]
 robots: [index, anchors]
 anchor: gettingStarted
 description: |
-  Getting started with FlowAllocator
+  Getting started with Flow Allocator
 ---
 
 # Getting Started
 
-First steps to rebalancing your portfolio with _FlowAllocator_:
+First steps to rebalancing your portfolio with _Flow Allocator_:
 
 1. Create (or import) your accounts
 

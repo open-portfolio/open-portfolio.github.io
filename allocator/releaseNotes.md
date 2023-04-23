@@ -1,21 +1,21 @@
 ---
 title: Release Notes
-keywords: [FlowAllocator, application, updates, changes, fixes, bugfixes, changelog, release, release notes]
+keywords: [Flow Allocator, application, updates, changes, fixes, bugfixes, changelog, release, release notes]
 robots: [index, anchors]
 anchor: changeLog
 description: |
-  Release Notes: What's New with FlowAllocator
+  Release Notes: What's New with Flow Allocator
 ---
 
 # Release Notes
 
-What's new with _FlowAllocator_?
+What's new with _Flow Allocator_?
 
 ## Version 1.12
 
 *Released August 2022*
 
-* _FlowAllocator_ is now open source. All ‘Investor’ features that were formerly an in-app purchase are now available to all users.
+* _Flow Allocator_ is now open source. All ‘Investor’ features that were formerly an in-app purchase are now available to all users.
 
 ## Version 1.11
 
@@ -85,10 +85,10 @@ What's new with _FlowAllocator_?
 
 *Released November 2021*
 
-* Completed internal code-reorganization changes for development of new FlowWorth app.
+* Completed internal code-reorganization changes for development of new Flow Worth app.
 * FINporter fix to support non-"All-Account" exports from Schwab.
 * Defensive changes which may address the CPU issues that one user has reported.
-* Restructured documentation to better integrate with website and the new FlowWorth app. 
+* Restructured documentation to better integrate with website and the new Flow Worth app. 
 * Removed context help buttons, at least temporarily, due to limitations of legacy help system with new documention organization.
 * Account holdings summary displays even if no active strategy selected.
 * Various changes and fixes. Please report anything I might have inadvertently broken.

@@ -1,6 +1,6 @@
 ---
 title: Returns Inspector Dietz
-keywords: [FlowWorth, returns, inspector, dietz]
+keywords: [Flow Worth, returns, inspector, dietz]
 robots: [index, anchors]
 anchor: inspectDietz
 description: |

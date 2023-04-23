@@ -1,6 +1,6 @@
 ---
 title: Returns Inspector Forecast
-keywords: [FlowWorth, returns, inspector, delta, forecast, linear, regression]
+keywords: [Flow Worth, returns, inspector, delta, forecast, linear, regression]
 robots: [index, anchors]
 anchor: inspectForecast
 description: |

@@ -1,15 +1,15 @@
 ---
 title: Getting Started
-keywords: [FlowWorth, introduction]
+keywords: [Flow Worth, introduction]
 robots: [index, anchors]
 anchor: gettingStarted
 description: |
-  Getting started with FlowWorth
+  Getting started with Flow Worth
 ---
 
 #  Getting Started
 
-First steps to tracking your portfolio with _FlowWorth_:
+First steps to tracking your portfolio with _Flow Worth_:
 
 1. Create (or import) your accounts
 

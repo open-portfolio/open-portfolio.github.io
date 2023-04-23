@@ -6,7 +6,7 @@ permalink: /terms/
 
 # Terms and Conditions
 
-‘The software’ means the _FlowAllocator_ and _FlowWorth_ applications.
+‘The software’ means the _Flow Allocator_ and _Flow Worth_ applications.
 
 By downloading and using the software, the terms and conditions will automatically apply to you. Review carefully before using.
 
