@@ -9,6 +9,8 @@ description: |
 
 # Tracker Table
 
+*NOTE (April 2023): in an effort to simplify, support for Tracker has been removed from Flow Allocator (if you really need it, let @reedes know, and I can restore functionality.)*
+
 Each row of the Tracker table describes a many-to-many
 relationship between Securities.
 
